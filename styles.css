@@ -4,3 +4,24 @@ h1 {
     font-family: Georgia, serif;
     text-align: center;
 }
+
+body {
+    color: #133a18;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    font-family: Arial, sans-serif;
+    color: #1a4624;
+}
+
+a {
+    color: darkgreen;
+    font-family: Arial, sans-serif;
+}
