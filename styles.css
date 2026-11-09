@@ -55,3 +55,18 @@ td {
     color: #444444;
     text-align: left;
 }
+
+.columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.column {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
